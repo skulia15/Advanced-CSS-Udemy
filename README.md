@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Course Material and FAQ for my Advanced CSS Course
 
 This repo contains starter files and the finished project files for all the projects contained in the course.
@@ -55,3 +56,6 @@ Unfortunately, this is quite common. I listed some possible fixes [in this docum
 ### Q12: How do I get my certificate of completion?
 
 **A:** A certificate of completion is provided by Udemy after you complete 100% of the course. After completing the course, just click on the small trophy icon on the course overview page. If you want to change your name on the certificate, please [contact the Udemy support team](https://support.udemy.com/hc/en-us).
+=======
+# Advanced-CSS-Udemy
+>>>>>>> 99374aba7f9e7d2b7409ea613ed4361619ff5a2f
